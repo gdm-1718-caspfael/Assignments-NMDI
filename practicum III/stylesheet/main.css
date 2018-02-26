@@ -1,0 +1,31 @@
+html{
+    text-align: center;
+    background-color: #87A4B2;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Hardt{
+    width: 75%;
+    border-style: solid;
+    border-width: 5px;
+    
+}
+.Vrees{
+    width: 75%;
+    border-style: solid;
+    border-width: 5px;
+
+    
+}
+.mijnwerk{
+    display:flex;
+    align-content: center;
+    
+}
+.divVrees{
+    width: 50%;
+}
+
+.divHardt {
+    width: 50%;
+}
